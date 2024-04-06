@@ -41,9 +41,20 @@ Later on in Section 2, if the player obtained the staff, when they encounter the
 
 ### 1.3. Challenge
 ### ***What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?***
+Challenge refers to the difficulty and complexity that is presented to the player when they first enter the game. 
+For this game, it has been calibrated each section to slowly increase the difficulty, which each challenge being a checkpoint of the players skill. 
+In the first section the challenge presented to the player is platforming, with each part of the parkour slowly increasing in difficulty without fully putting the player
+into the deep end. 
+ 
+For example: 
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+### ***How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?***
+Exploration is the traversal aspect of games that allows players to have a sense investigation of the environment, finding secrets or routes not found through automation, 
+For this game, exploration is one of main aspects that players will use to discover secrets and powers that will help them progress through. 
+Making the game a non-linear experience allows players to try different routes, testing which provides the fastest clear-time or have the best rewards. 
+ 
+For example in section 2 there is a cave-in that contains a several pick-ups such as the gun and health: 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
