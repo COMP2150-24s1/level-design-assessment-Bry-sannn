@@ -1,6 +1,6 @@
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Brynel Santos
+### Student number: 46602097
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -38,6 +38,20 @@ Later on in Section 2, if the player obtained the staff, when they encounter the
 
 ### 1.2. Drama
 ### ***What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?*** 
+Drama can create a sense of intensity that is modulated according to the situation at hand. 
+For this game, drama is created to teach the player the various encounters and slowly ease them to the intesity that will await them 
+as they progress through each section. 
+Section 1 has a mild intensity with the environment hazards as the only aspect applying pressure 
+For example: 
+ 
+Section 2 delves a bit more pressure with the introduction to enemy encounters, initially putting the basic enemies and as they 
+progress slowly increase the amount. 
+ 
+For example: 
+ 
+Lastly Section 3 gives the player a high amount of intensity with moments of relief 
+ 
+For example:
 
 ### 1.3. Challenge
 ### ***What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?***
@@ -55,13 +69,15 @@ For this game, exploration is one of main aspects that players will use to disco
 Making the game a non-linear experience allows players to try different routes, testing which provides the fastest clear-time or have the best rewards. 
  
 For example in section 2 there is a cave-in that contains a several pick-ups such as the gun and health: 
+ 
+Section 3 uses exploration as a sense 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
 You should restructure the headings below to match the order they appear in your level.
+ 
+The core gameplay 
 
 ### 2.1. Acid
 
