@@ -56,11 +56,21 @@ For example:
 ### 1.3. Challenge
 ### ***What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?***
 Challenge refers to the difficulty and complexity that is presented to the player when they first enter the game. 
-For this game, it has been calibrated each section to slowly increase the difficulty, which each challenge being a checkpoint of the players skill. 
+For this game, it has been calibrated each section to slowly increase the difficulty, which each challenge being a checkpoint of the players' skill. 
 In the first section the challenge presented to the player is platforming, with each part of the parkour slowly increasing in difficulty without fully putting the player
 into the deep end. 
  
-For example: 
+For example:   
+![Level 1 Challenge](DocImages/Level1Challenge.png) 
+This showcases the basic challenges that the player will encounter, focusing more on the ability of the player to jump and navigate through each platforms 
+ 
+![Level 2 Challenge](DocImages/Level2Challenge.png)  
+This section challenges players with their ability to dodge and handle enemies, if players have weapons it reduces the pressure and challenge for them. However, 
+if players do section 2 first, they will struggle. 
+ 
+![Level 3 Challenge](DocImages/Level3Challenge.png) 
+Section 3 combines the aspect of section 1 and 2, challenging players with their ability to parkour and defeat enemies, navigating through various chompers and spitters while jumping over hazards. 
+It is finalised with a boss battle with a large chomper.
 
 ### 1.4. Exploration
 ### ***How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?***
@@ -88,22 +98,35 @@ The Acid is introduced in Section 1 of the game, it is used as an environmental 
 the player back to the recent checkpoint. It can give a player a sense of danger and caution. 
  
 ![Acid Storyboard 1](DocImages/Acid1.png)  
-This showcases the first interaction Acid pit, when the player falls in they will lose a heart and respawn to the nearest checkpoint. 
+This showcases the first interaction Acid pit, when the player falls in they will lose a heart and respawn to the nearest checkpoint. However, 
+if players manage to complete the jump, they are able to get a health pack and continue with the level.
 
-![Acid Storyboard 2](DocImages/Acid2.png)   
-This will showcase the correct way to complete the encounter.
+
 
 ### 2.2. Checkpoints 
 Checkpoints are used as markers of the players progress, for this game the checkpoints are set quite early into the level to give 
 each section a sense of non-linear progression, allowing them to pick which section to attempt. However, for section 3, it goes back to  the traditional marker. 
- 
+![Acid Storyboard 1](DocImages/Checkpoint story.png)  
+This showcases the first time that the player will gain the checkpoints, with both checkpoints indicating which areas need to be explored.
+
 
 
 ### 2.3. Chompers 
-Chompers appear on section 2 of the level and is introduced as the first encounter and training for the players.
+Chompers appear on section 2 of the level and is introduced as the first encounter and training for the players.  
+
+![Acid Storyboard 1](DocImages/Chomper story.png)   
+
+Players wil first encounter this enemy at the beginning of the section 2, showcasing if the player will attempt to maneuver around chompers however they fail.  
+
+![Acid Storyboard 1](DocImages/Chomper story 2.png)  
+
+Now when the player respawn if they understand what they need to do or have the staff, they will be more equipped with the knowledge to navigate through the encounter.
 
 ### 2.4. Health Pickups 
-Health pickups are introduced later in section 1 to make sure that the player does not have a game-over early into the level.
+Health pickups are introduced later in section 1 to make sure that the player does not have a game-over early into the level. 
+![Acid Storyboard 1](DocImages/Health kit.png) 
+Access to the first health kits is quite simple and it is to ensure that the player does not lose too much health especially when traversing through the platforms. 
+
 
 ### 2.5. Keys 
 These keys are used to open the teleport door at the end of the game, it is first shown on section 1 as shown on the storyboard.
@@ -114,27 +137,56 @@ the section as they traverse through the acid pits and moving platforms.
 
 ### 2.6. Moving Platforms 
 Moving platforms can be used to traverse any entity to different locations. 
-![Moving Platform Storyboard 1](DocImages/Moving Platform 1.png) 
+![Moving Platform Storyboard 1](DocImages/Moving Platform 1.png)  
+
 This section shows the first encounter with the moving platform, and the consequences in failing the jump. 
 
 
 ### 2.7. Passthrough Platforms 
-Passthrough platforms can provide a sense of parkour as well as exploration. 
+Passthrough platforms can provide a sense of parkour as well as exploration.  
+ 
+![Moving Platform Storyboard 1](DocImages/Passable platform.png)
 
 
 ### 2.8. Spikes 
-Spikes are used as an environmental hazards for the players to avoid.
+Spikes are used as an environmental hazards for the players to avoid. 
+ 
+![Moving Platform Storyboard 1](DocImages/Spikesstory1.png) 
+ 
+This showcases the players first encounter with the spikes, it is a basic jump and used to give players a slight challenge 
+and insight to what's to come. In this storyboard it also showcases what would happen if a player falls in and dies. 
+ 
+![Moving Platform Storyboard 1](DocImages/Spikesstory2.png)  
+ 
+This showcases what is the correct solution in this encounter, by properly jumping over the obstacle.
 
 ### 2.9. Spitters 
-Spitters similar to chompers are introduced on section 2 as a basic encounter, they either avoid or take on them head-on 
+Spitters similar to chompers are introduced on section 2 as a basic encounter, they either avoid or take on them head-on  
+ 
+![Moving Platform Storyboard 1](DocImages/SpitterStory1.png)  
+Similar to the chomper encounter, players will need to decide whether they will avoid engaging with the spitter and dodging their attacks or
+attack them using a weapon, in this storyboard it showcases the consequences of dying to the enemy, respawning back in checkpoint 2 
+ 
+![Moving Platform Storyboard 1](DocImages/SpitterStory2.png)   
+
+This showcases what will happen if the player attacks the enemy, eliminating them from the game or dodging them using various means.
 
 
 ### 2.10. Weapon Pickup (Gun) 
-The gun is introduced when the player accsess the cave-in in section 2
+The gun is introduced when the player access the cave-in in section 2 
+ 
+![Moving Platform Storyboard 1](DocImages/Gunpickup1.png)   
+The gun is in a cave-in around section 2, the access this through the moving platform. 
+ 
+![Moving Platform Storyboard 1](DocImages/Gunpickup2.png)    
+This showcases the inside of the cave-in, with a minor obstacle the player is able to gain the weapon.
+
 
 ### 2.11. Weapon Pickup (Staff) 
-The staff is the first weapon that players will obtain. 
-![Staff Storyboard 1](DocImages/Key and Staffpickup.png)   
+The staff is the first weapon that players will obtain.  
+
+![Staff Storyboard 1](DocImages/Key and Staffpickup.png)    
+
 This is the first encounter of the staff, it is in the same location as the key to provide players 
 a reward for completing a section of the level. They will acquire this my navigating through the  
 moving platform and acid pits.
