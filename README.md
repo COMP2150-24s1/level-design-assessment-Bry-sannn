@@ -70,36 +70,56 @@ Making the game a non-linear experience allows players to try different routes, 
  
 For example in section 2 there is a cave-in that contains a several pick-ups such as the gun and health: 
  
-Section 3 uses exploration as a sense 
+Section 3 uses exploration as a way to find different techniques to finish the level, for example: 
+ 
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 You should restructure the headings below to match the order they appear in your level.
  
-The core gameplay 
+The core gameplay showcases the mechanics that will be introduced to the player, these mechanics will determine 
+how a game will operate and how a player shall react to encounters. 
 
-### 2.1. Acid
 
-### 2.2. Checkpoints
+### 2.1. Acid 
+The Acid is introduced in Section 1 of the game, it is used as an environmental hazards that will damage and reset 
+the player back to the recent checkpoint. It can give a player a sense of danger and caution
 
-### 2.3. Chompers
+### 2.2. Checkpoints 
+Checkpoints are used as markers of the players progress, for this game the checkpoints are set quite early into the level to give 
+each section a sense of non-linear progression, allowing them to pick which section to attempt. However for section 3, it goes back to 
+to the traditional marker.
 
-### 2.4. Health Pickups
+### 2.3. Chompers 
+Chompers appear on section 2 of the level and is introduced as the first encounter and training for the players.
 
-### 2.5. Keys
+### 2.4. Health Pickups 
+Health pickups are introduced later in section 1 to make sure that the player does not have a game-over early into the level.
 
-### 2.6. Moving Platforms
+### 2.5. Keys 
+These keys are used to open the teleport door at the end of the game, it is first shown on section 1 as shown on the storyboard.
 
-### 2.7. Passthrough Platforms
+### 2.6. Moving Platforms 
+Moving platforms can be used to traverse any entity to different locations.
 
-### 2.8. Spikes
+### 2.7. Passthrough Platforms 
+Passthrough platforms can provide a sense of parkour as well as exploration. 
 
-### 2.9. Spitters
 
-### 2.10. Weapon Pickup (Gun)
+### 2.8. Spikes 
+Spikes are used as an environmental hazards for the players to avoid.
 
-### 2.11. Weapon Pickup (Staff)
+### 2.9. Spitters 
+Spitters similar to chompers are introduced on section 2 as a basic encounter, they either avoid or take on them head-on 
+
+
+### 2.10. Weapon Pickup (Gun) 
+The gun is introduced when the player accsess the cave-in in section 2
+
+### 2.11. Weapon Pickup (Staff) 
+The staff is the first weapon that players will obtain.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
