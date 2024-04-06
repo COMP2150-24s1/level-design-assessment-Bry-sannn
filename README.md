@@ -16,9 +16,16 @@ Example:
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+  
+The vision, objectives, mechanics, and features of a video game are all outlined in detail in a game design plan. It includes specifics like the plot, the characters, the gaming mechanics,  
+the level design, the visual style, and the audio.  
+For the development team, the plan acts as a blueprint, directing the production process from conception to completion and guaranteeing a seamless and captivating player experience. 
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice? 
+Throughout the game, players will discovery that Section 1 and 2 are both introducing the encounters that will help them traverse through especially during section 3. 
+The game is calibrated to where the encounters are slowly eased into rather putting them on the spot. 
+Players will learn how to 
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
