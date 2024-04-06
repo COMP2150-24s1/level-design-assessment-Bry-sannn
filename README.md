@@ -42,16 +42,19 @@ Drama can create a sense of intensity that is modulated according to the situati
 For this game, drama is created to teach the player the various encounters and slowly ease them to the intesity that will await them 
 as they progress through each section. 
 Section 1 has a mild intensity with the environment hazards as the only aspect applying pressure 
-For example: 
+For example:  
+![Section 1 Drama](DocImages/DramaSection1.png) 
  
 Section 2 delves a bit more pressure with the introduction to enemy encounters, initially putting the basic enemies and as they 
 progress slowly increase the amount. 
  
 For example: 
- 
-Lastly Section 3 gives the player a high amount of intensity with moments of relief 
+ ![Section 2 Drama](DocImages/DramaSection3.png) 
+
+Lastly Section 3 gives the player a high amount of intensity with moments of relief, passing through each obstacle and having areas that 
  
 For example:
+![Section 3 Drama](DocImages/DramaSection3.png)  
 
 ### 1.3. Challenge
 ### ***What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?***
