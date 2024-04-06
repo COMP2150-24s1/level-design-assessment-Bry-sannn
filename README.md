@@ -15,23 +15,32 @@ Example:
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+#### ***Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.***
   
 The vision, objectives, mechanics, and features of a video game are all outlined in detail in a game design plan. It includes specifics like the plot, the characters, the gaming mechanics,  
 the level design, the visual style, and the audio.  
 For the development team, the plan acts as a blueprint, directing the production process from conception to completion and guaranteeing a seamless and captivating player experience. 
 
-### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice? 
+### 1.1. Discovery  
+##### ***What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?*** 
+
 Throughout the game, players will discovery that Section 1 and 2 are both introducing the encounters that will help them traverse through especially during section 3. 
 The game is calibrated to where the encounters are slowly eased into rather putting them on the spot. 
-Players will learn how to 
+Players will learn how to platform between blocks and learn how to dodge enemies on the go, while also allowing them to freely discover any techniques or actions that 
+will help them finish the level. 
+ 
+For Example: 
+In section 1, the player will encounter a simple platform area that showcases the different hazards and jumps that players will need to make 
+![This is a screenshot of the different pits!](DocImages/introtospikespit.png) 
+ 
+Later on in Section 2, if the player obtained the staff, when they encounter their first enemies they will be able to use the staff to easily traverse it. 
+
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+### ***What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?*** 
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+### ***What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?***
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
