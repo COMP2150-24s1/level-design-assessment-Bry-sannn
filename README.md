@@ -85,12 +85,19 @@ how a game will operate and how a player shall react to encounters.
 
 ### 2.1. Acid 
 The Acid is introduced in Section 1 of the game, it is used as an environmental hazards that will damage and reset 
-the player back to the recent checkpoint. It can give a player a sense of danger and caution
+the player back to the recent checkpoint. It can give a player a sense of danger and caution. 
+ 
+![Acid Storyboard 1](DocImages/Acid1.png)  
+This showcases the first interaction Acid pit, when the player falls in they will lose a heart and respawn to the nearest checkpoint. 
+
+![Acid Storyboard 2](DocImages/Acid2.png)   
+This will showcase the correct way to complete the encounter.
 
 ### 2.2. Checkpoints 
 Checkpoints are used as markers of the players progress, for this game the checkpoints are set quite early into the level to give 
-each section a sense of non-linear progression, allowing them to pick which section to attempt. However for section 3, it goes back to 
-to the traditional marker.
+each section a sense of non-linear progression, allowing them to pick which section to attempt. However, for section 3, it goes back to  the traditional marker. 
+ 
+
 
 ### 2.3. Chompers 
 Chompers appear on section 2 of the level and is introduced as the first encounter and training for the players.
@@ -100,9 +107,16 @@ Health pickups are introduced later in section 1 to make sure that the player do
 
 ### 2.5. Keys 
 These keys are used to open the teleport door at the end of the game, it is first shown on section 1 as shown on the storyboard.
+![Key Storyboard 1](DocImages/Key and Staffpickup.png)   
+This showcases the first encounter of the key, through parkour, players are able to gain this. 
+It is also in the same location as the staff pickup in order to provide the player a reward for completing  
+the section as they traverse through the acid pits and moving platforms.
 
 ### 2.6. Moving Platforms 
-Moving platforms can be used to traverse any entity to different locations.
+Moving platforms can be used to traverse any entity to different locations. 
+![Moving Platform Storyboard 1](DocImages/Moving Platform 1.png) 
+This section shows the first encounter with the moving platform, and the consequences in failing the jump. 
+
 
 ### 2.7. Passthrough Platforms 
 Passthrough platforms can provide a sense of parkour as well as exploration. 
@@ -119,7 +133,11 @@ Spitters similar to chompers are introduced on section 2 as a basic encounter, t
 The gun is introduced when the player accsess the cave-in in section 2
 
 ### 2.11. Weapon Pickup (Staff) 
-The staff is the first weapon that players will obtain.
+The staff is the first weapon that players will obtain. 
+![Staff Storyboard 1](DocImages/Key and Staffpickup.png)   
+This is the first encounter of the staff, it is in the same location as the key to provide players 
+a reward for completing a section of the level. They will acquire this my navigating through the  
+moving platform and acid pits.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
