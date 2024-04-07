@@ -2,17 +2,7 @@
 ### Name: Brynel Santos
 ### Student number: 46602097
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 #### ***Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.***
@@ -34,10 +24,8 @@ In section 1, the player will encounter a simple platform area that showcases th
 ![This is a screenshot of the different pits!](DocImages/introtospikespit.png) 
  
 Later on in Section 2, if the player obtained the staff, when they encounter their first enemies they will be able to use the staff to easily traverse it. However, if the players 
-do not explore, it will help them learn and understand that exploration is key themes for this game. 
+do not explore, it will help them learn and understand that exploration is key themes for this game.  
  
-
-
 
 
 ### 1.2. Drama
@@ -118,10 +106,6 @@ of their skill and ability to navigate through each obstacle.
 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-You should restructure the headings below to match the order they appear in your level.
- 
 The core gameplay showcases the mechanics that will be introduced to the player, these mechanics will determine 
 how a game will operate and how a player shall react to encounters. 
  
@@ -221,9 +205,6 @@ This showcases the inside of the cave-in, with a minor obstacle the player is ab
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram 
 ![Molecule Diagram](DocImages/MoleculeDiagram.png)    
@@ -243,21 +224,54 @@ No additional words are necessary for this section (any words should only be wit
 ## 4. Iterative Design (~400 words)
 *Reflect on how iterative design helped to improve your level.*
  
-Iterative design is the  
+Iterative design is the development cycle that allows game designers to refine the prototype through various means, for this game design, the main 
+design process that was used was additional storyboards of encounters that was not mentioned previously. There were many changes from the level map to 
+the actual Unity file as many test were made and changed to make sure that the experience of the player is not falsely diverted. Lastly a reflection of any possible  
+iterative designs to further refine encounters of the game such as using paper prototype or early-greyboxing will be made for next-time.
 
 #### ***Additional Storyboards***
-![Boss Arena](DocImages/Additional%20Storyboard.PNG)  
-![Boss Arena](DocImages/Additional%20Storyboard2.PNG)  
+![Additional Storyboard 1](DocImages/Additional%20Storyboard.PNG)   
+This storyboard contains the encounter of the boss at section 3, showcasing how the player should react as well as the consequences of the encounter. 
+Additional notes such as the player already having the weapons and the knowledge on how to deal when the boss chomper is made as there is a destructible wall 
+just before the end level door that can only be destroyed using a staff. 
+
+![Additional Storyboard 2](DocImages/Additional%20Storyboard2.PNG)  
+This showcases the step by step mechanism of the trigger door at the starting area, the trigger is on section 2 using a pushable block that triggers a pressure plate, and thus unlocking 
+the trigger door. There is only one main issue with this mechanism, and it's if the player accidentally drops the pushable block down the wrong area, being unable to progress through.
  
-#### ***Changes in unity*** 
+#### ***Changes in unity***  
+There were changes made after making test runs to the game and understanding the mechanism at hand. 
+ 
+![Changes to Unity 1](DocImages/Changes to unity.png)  
+
+Adding the additional destructible wall rather than keeping it open notifies the player that they will need to double back to the first section if they have not picked up the staff weapon, thus 
+forcing them to explore Section 1 and 2 before heading to section 3. 
+ 
+![Changes to Unity 2](DocImages/Changes to unity2.png)   
+
+There was a minor change to the floating island, instead of the making a floating platform with the key on top, it prevents players from going off the level and into the void. An additional health kit is given in case  
+the player lost too much health. 
+ 
+![Changes to Unity 3](DocImages/Changes to unity3.png)  
+
+There were some minor changes to the level especially at the end, adding more health kits allowed for more attempts of the level to occur rather than having game overs all the time. Platforms have more 
+room for players to jump and an additional moving platform is made to give a minor intensity to the level.
  
 #### ***Further reflective on Iterative Design***
+Grey-boxing is a technique that allows game designers to use a simplify the level in order to understand the level layout or the core mechanics that is being portrayed in the game. 
+Simplifying the map level can be done by removing the texture or lowering the poly count of an object. 
+ 
+![Further Reflection 1](DocImages/FurtherReflection1.PNG)   
 
+Grey-boxing can help this section by making the moving platform a lot more precise in the timings and the possibility of making more moving platforms to increase the complexity of the section. 
+ 
+![Further Reflection 2](DocImages/FurtherReflection2.PNG)  
+ 
+More grey-boxing design process can help refine this by adding more complexity and timings to the moving platform.
 
 
 ## Generative AI Use Acknowledgement
 
-Uheory mentioned, however, was useful, and I've incorporated it into my work.
 
 ### Tool Used: Example
 **Nature of Use** Example Text
